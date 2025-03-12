@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         kramdown
+# highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+# relative_permalinks: true
+
+# Setup
+title:            'my new title'
+tagline:          'VITURES'
+description:      'In this chaotic world we can still gain strength from those vitures'
+url:              http://hyde.getpoole.com
+baseurl:          /
+
+author:
+  name:           'JiaYi Zhang'
+  url:            https://github.com/itzMeerkat
+
+paginate:         5
+
+# Custom vars
+version:          0.0.1
+
+
+plugins: [jekyll-paginate]
