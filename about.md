@@ -4,27 +4,20 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  球状实心胖土拨鼠将向着名为现状的巨大风车发动不成功便成仁的冲锋！
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+一直以来我都在尽力窥探社会的运行规律，并尝试在时代的洪流中找到属于自己的安身之地。探索了几年发现我们好像正处于一个黄金时代的余晖中，并且马上就要完犊子了。
 
-There are currently two themes built on Poole:
+近几年，从推荐算法逐渐控制我们的赛博生活之后，我便愈发觉得至少在网络空间中，各种事情在向着一个扭曲偏执的方向一路狂奔。对发展的焦虑，和对不确定性的恐惧逐渐占据了我们这一代人的精神世界。
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+同时在社会交互的过程中，在目睹了一些所谓“人性的黑暗面”之后，我痛定思痛下定决心拥有了一个宏大的理想：***好人不光不能被人用枪指着，好人得拿着枪，指着所有人，然后因为好人不会随便开枪，我们就拥有了一个更好的世界！***
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+我想在这个时代的洪流里建立一个偏安一隅的小圈子，秉持着旧世纪的一些美德和信念。我拒绝投其所好的推荐系统，拒绝将用户作为商品本身，以对美好世界的期许为出发点，为自己的生活创造一个锚点。
 
-## Setup
+## Contact
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+* Email: itzmeerkat@gmail.com
+* GitHub: [github.com/itzMeerkat](https://github.com/itzMeerkat)
+* 小红书: @实心胖子
+* Bilibili: @球状土拨鼠
