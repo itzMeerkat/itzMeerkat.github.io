@@ -3,7 +3,8 @@ import glob
 import subprocess
 
 POSTS_DIR = os.path.join(os.path.dirname(__file__), '..', '_posts')
-FONTS_DIR = os.path.join(os.path.dirname(__file__), '..', 'assets', 'fonts')
+FONTS_DIR = os.path.join(os.path.dirname(__file__), '..', 'raw_fonts')
+OUT_DIR = os.path.join(os.path.dirname(__file__), '..', 'assets', 'fonts')
 
 # 1. Collect all unique characters from markdown files
 def collect_characters(posts_dir, about_path):
@@ -28,7 +29,7 @@ def subset_fonts(fonts_dir, charset):
     for font_file in os.listdir(fonts_dir):
         if font_file.lower().endswith('.ttf'):
             font_path = os.path.join(fonts_dir, font_file)
-            output_path = os.path.join(fonts_dir, font_file.replace('.ttf', '-subset.ttf'))
+            output_path = os.path.join(OUT_DIR, font_file.replace('.ttf', '-subset.ttf'))
             print(f'Subsetting {font_file}...')
             cmd = [
                 'pyftsubset',
