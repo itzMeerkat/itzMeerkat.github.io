@@ -24,3 +24,5 @@ version:          0.0.2
 
 
 plugins: [jekyll-paginate]
+
+exclude: ['scripts']
