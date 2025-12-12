@@ -11,7 +11,7 @@ title:            '土拨鼠洞'
 # tagline:          'VITURES'
 description:      '生活没有答案，因为根本没有问题。'
 url:              https://blog.jiayizhang.me
-baseurl:          /
+# baseurl:          /
 
 author:
   name:           'JiaYi Zhang'
